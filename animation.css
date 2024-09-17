@@ -1,0 +1,41 @@
+/* Add rotation and scaling to the planets */
+.mercury {
+    animation: orbit 10s linear infinite, rotate 10s linear infinite;
+}
+
+.venus {
+    animation: orbit 15s linear infinite, rotate 15s linear infinite;
+}
+
+.earth {
+    animation: orbit 20s linear infinite, rotate 20s linear infinite;
+}
+
+.mars {
+    animation: orbit 25s linear infinite, rotate 25s linear infinite;
+}
+
+.jupiter {
+    animation: orbit 30s linear infinite, rotate 30s linear infinite;
+}
+
+.saturn {
+    animation: orbit 35s linear infinite, rotate 35s linear infinite;
+}
+
+.uranus {
+    animation: orbit 40s linear infinite, rotate 40s linear infinite;
+}
+
+.neptune {
+    animation: orbit 45s linear infinite, rotate 45s linear infinite;
+}
+
+@keyframes rotate {
+    0% {
+        transform: scale(1) rotate(0deg);
+    }
+    100% {
+        transform: scale(1.1) rotate(360deg);
+    }
+}
