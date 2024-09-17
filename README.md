@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @AlinB007
 - 👀 I am really interested in Java programming
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on 🤔
 - 📫 How to reach me bujor_alin92@yahoo.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: 😃
 - ⚡ Fun fact: "In Java, The meaning of Final keyword is not final. It has different meanings in java. It can be Final class, Final method, Final field or Final variable."
 
 <!---
